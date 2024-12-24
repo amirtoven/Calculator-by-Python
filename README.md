@@ -1,3 +1,6 @@
 # Calculator-by-Python
 This calculator project is written in Python
-![image](https://github.com/user-attachments/assets/252ff7b3-e34f-4f33-8a2e-c1dc66b63463)
+
+Image of Program:
+![image](https://github.com/user-attachments/assets/91bd9ed2-d8f0-4d47-a2f3-871b9fcef528)
+
